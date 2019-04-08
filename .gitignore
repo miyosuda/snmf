@@ -3,3 +3,7 @@ __pycache__
 .DS_Store
 *-checkpoint.ipynb
 *.ipynb_checkpoints
+
+debug.ipynb
+saved
+
